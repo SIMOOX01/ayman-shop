@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ayman-shop/static/css/main.e270a3e3.css",
-    "main.js": "/ayman-shop/static/js/main.f3b021ee.js",
+    "main.js": "/ayman-shop/static/js/main.5b5f851c.js",
     "static/js/453.d9d205e9.chunk.js": "/ayman-shop/static/js/453.d9d205e9.chunk.js",
     "static/media/logo.jpeg": "/ayman-shop/static/media/logo.368fdd4d22e7d472d5e9.jpeg",
     "index.html": "/ayman-shop/index.html",
     "main.e270a3e3.css.map": "/ayman-shop/static/css/main.e270a3e3.css.map",
-    "main.f3b021ee.js.map": "/ayman-shop/static/js/main.f3b021ee.js.map",
+    "main.5b5f851c.js.map": "/ayman-shop/static/js/main.5b5f851c.js.map",
     "453.d9d205e9.chunk.js.map": "/ayman-shop/static/js/453.d9d205e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e270a3e3.css",
-    "static/js/main.f3b021ee.js"
+    "static/js/main.5b5f851c.js"
   ]
 }
